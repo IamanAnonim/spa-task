@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/repo-adi/static/css/main.c3cd7c7f.css",
+    "main.js": "/repo-adi/static/js/main.72cb4641.js",
+    "index.html": "/repo-adi/index.html",
+    "main.c3cd7c7f.css.map": "/repo-adi/static/css/main.c3cd7c7f.css.map",
+    "main.72cb4641.js.map": "/repo-adi/static/js/main.72cb4641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3cd7c7f.css",
+    "static/js/main.72cb4641.js"
+  ]
+}
